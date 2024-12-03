@@ -13,3 +13,4 @@ pub fn run(day: &str, function: fn(&str) -> isize) {
 
 
 // day modules
+pub mod day_01;
